@@ -16,3 +16,4 @@ The open source projects below has content that's inconsistent with "One-China" 
 
 | 项目 | 问题简述 |
 | ------------- | ------------- |
+| [Faker](https://github.com/fzaninotto/Faker) | 国家列表中[Republik China di Taiwan](https://github.com/fzaninotto/Faker/blob/fb218ada627f7c750c6e0e41cae486d2db48e911/src/Faker/Provider/ms_MY/Address.php#L474) 其他语言包中是"Taiwan"|
