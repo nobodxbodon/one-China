@@ -24,3 +24,4 @@ The open source projects below has content that's inconsistent with "One-China" 
 | 项目 | 潜在问题 | 相关issue/PR |
 | ------------- | ------------- | ------------- |
 | [Drupal](https://www.drupal.org) | 台 | [Switch from ISO-3166-1 country data to CLDR unicode data](https://www.drupal.org/project/drupal/issues/1938892) |
+| [DiUS/java-faker](https://github.com/DiUS/java-faker) | 台 | [Fix TW address](https://github.com/DiUS/java-faker/pull/429) |
