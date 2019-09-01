@@ -10,6 +10,7 @@ The open source projects below has content that's inconsistent with "One-China" 
 | [woocommerce](https://github.com/woocommerce/woocommerce) | [add Hong Kong, Taiwan as Chinese states; fix name of Macao](https://github.com/woocommerce/woocommerce/pull/24425) | 港澳台 |
 | [mledoze/countries](https://github.com/mledoze/countries) | [Please remove “Province of China” from Taiwan](https://github.com/mledoze/countries/issues/4) | 台 |
 | [Bastian/bStats](https://github.com/Bastian/bStats) | [use short name in ISO 3166 data](https://github.com/Bastian/bStats/pull/99) | 台 |
+| [Automattic/wp-calypso] | [Stats: should Taiwan be included as a province of China, or as a separate country (current situation)](https://github.com/Automattic/wp-calypso/issues/35896) | 台 |
 
 
 ### 尚未交涉 Not yet start communication
